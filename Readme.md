@@ -1,5 +1,5 @@
 Data generated within this folder utilizes two new methods described below in order to generate a detailed dataset of the demographics,
-energy usage, and energy costs for simulated samples of the 2 million+ households in Colorado. To see example analysis using this dataset, view the [notebook](https://github.com/PSEHE/CO_energy_household_simulation/blob/abeaa324ccb0330b79c5bca2f7f63a1539a1c260/sample_household_plots.ipynb).  
+energy usage, and energy costs for simulated samples of the 2 million+ households in Colorado. To see example analysis using this dataset, view the [notebook](https://github.com/PSEHE/CO_energy_household_simulation/blob/main/sample_household_plots.ipynb).  
 
 # Sampling households from household survey to align with ACS population counts:
 Within the detailed household data set, `CO_estimates_all_households.zip`, household variables are roughly constrained by the ACS 2015-2019 counts of...
